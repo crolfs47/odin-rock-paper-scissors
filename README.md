@@ -23,4 +23,3 @@ Second Stage - add UI with DOM methods.
  - Improve CSS, left it very simple
  - Mobible support and browser compatibility 
 
-
