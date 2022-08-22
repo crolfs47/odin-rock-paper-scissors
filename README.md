@@ -4,6 +4,7 @@
 First Javascript project 
 
 First Stage - make a simple implementation of rock paper scissors, run from the browser console.
+
 Second Stage - add UI with DOM methods.
 
 ## Languages/Technologies used:
@@ -24,4 +25,5 @@ Second Stage - add UI with DOM methods.
  - Mobible support and browser compatibility 
 
 Assignment - https://www.theodinproject.com/lessons/foundations-rock-paper-scissors
+
 View project in browser -  https://crolfs47.github.io/odin-rock-paper-scissors/
