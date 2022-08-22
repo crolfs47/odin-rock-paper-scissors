@@ -23,3 +23,5 @@ Second Stage - add UI with DOM methods.
  - Improve CSS, left it very simple
  - Mobible support and browser compatibility 
 
+Assignment - https://www.theodinproject.com/lessons/foundations-rock-paper-scissors
+View project in browser -  https://crolfs47.github.io/odin-rock-paper-scissors/
