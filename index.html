@@ -6,26 +6,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rock Paper Scissors</title>
     <script src="script.js" defer></script>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Rock Paper Scissors</h1>
-    <h2>First to 5 wins!</h2>
-    <h3>Make your choice:</h3>
-    <div>
-        <button id="rock">Rock</button>
-        <button id="paper">Paper</button>
-        <button id="scissors">Scissors</button>
+    <h1 class="header">Rock Paper Scissors</h1>
+    <h2 class="header">First to 5 wins!</h2>
+    <h3 class="header">Make your choice:</h3>
+    <div class="button-container">
+        <button class="choiceButton" id="rock">Rock</button>
+        <button class="choiceButton" id="paper">Paper</button>
+        <button class="choiceButton" id="scissors">Scissors</button>
     </div>
-    <div>
-        <div id="playerSelection">Player Selection:</div>
-        <div id="computerSelection">Computer Selection:</div>
+    <div class="div">
+        <div class="selection" id="playerSelection">Player Selection:</div>
+        <div class="selection" id="computerSelection">Computer Selection:</div>
     </div>
     <div>
         <p id="results">Results:</p>
     </div>
-    <div>
-        <div id="playerScore">Player Score: 0</div>
-        <div id="computerScore">Computer Score: 0</div>
+    <div class="div">
+        <div class="score" id="playerScore">Player Score: 0</div>
+        <div class="score" id="computerScore">Computer Score: 0</div>
+    </div>
+    <div class="button-container">
+        <button id="restart">Restart Game</button>
     </div>
     <div>
         <p id="gameOver"></p>
